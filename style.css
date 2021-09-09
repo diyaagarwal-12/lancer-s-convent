@@ -43,3 +43,24 @@ h1 {
 #cont{
     margin-left: 270px;
 }
+.movie_head{
+    font-size: 20px;
+    margin: 15px;
+    border-radius: 10px;
+    text-align: left;
+}
+.movie_head i{
+    float: right;
+}
+.movie_text span{
+    color:orange;
+}
+img{
+    position:static;
+}
+p{
+    color: black
+}
+#his{
+    width: 800px;
+}
